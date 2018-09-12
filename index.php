@@ -1,6 +1,8 @@
 <?php
 
 
-echo "oi bbs";
+
+echo "oi gentem kkk, seus bbs";
+
 
 ?>
