@@ -1,6 +1,6 @@
 <?php
 
 
-echo "oi";
+echo "oi bbs";
 
 ?>
